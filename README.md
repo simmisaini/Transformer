@@ -62,13 +62,13 @@ Survivors from the losing team (Autobots): Hubcap
 
 
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Running end-to-end tests
-- Added e2e tests via Protractor
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+Testing
+---------
+-- Added various e2e tests to test application functionality.
+-- testcases are in e2e/app.e2e-spec.ts file
+-- Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+   Before running the tests make sure you are serving the app via `ng serve`.
 
 
  
